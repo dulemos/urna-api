@@ -1,0 +1,6 @@
+namespace UrnaEletronicaAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
